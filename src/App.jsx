@@ -1,7 +1,3 @@
-import './App.css'
-
-// https://jsonplaceholder.typicode.com/users
-
 function App() {
   return (
     <>
